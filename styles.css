@@ -6,13 +6,13 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color or image for the body */
 body {
-    background-color: #f2f2f2; /* Replace with your preferred background color or image */
+    background-color: #cfebbe; /* Replace with your preferred background color or image */
 }
 
 /* Set styles for the header section */
 header {
     text-align: center;
-    background-color: #333;
+    background-color: #797;
     color: #fff;
     padding: 20px;
 }
@@ -59,7 +59,7 @@ main {
 /* Style the footer section */
 footer {
     text-align: center;
-    background-color: #333;
+    background-color: #797;
     color: #fff;
     padding: 10px;
 }
